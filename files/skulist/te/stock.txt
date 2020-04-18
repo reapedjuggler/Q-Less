@@ -1,0 +1,15 @@
+electronics
+mobile
+ELECMOBISAMS16GB50MP00001
+70000
+-1
+-1
+-2
+grocery
+vegetable
+GROCVEGENONEPOTA01KG00001
+100
+-1
+-1
+-2
+-3

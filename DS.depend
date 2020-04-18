@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1572160924 source:/home/aditya/Documents/C And C++/DS/main.cpp
+	<bits/stdc++.h>
+
+1572256896 source:/home/aditya/Data/C And C++/DS/main.cpp
+	<SKU.h>
+
+1572255128 /home/aditya/Data/C And C++/DS//SKU.h
+	<bits/stdc++.h>
+
+1572254507 source:/home/aditya/Data/C And C++/DS/SKU.cpp
+	"SKU.h"
+
+1572255128 /home/aditya/Data/C And C++/DS/SKU.h
+	<bits/stdc++.h>
+
+1572417730 source:/home/aditya/Data/DS/database.cpp
+	"database.h"
+
+1572373473 /home/aditya/Data/DS/database.h
+	<SKU.h>
+
+1572373490 /home/aditya/Data/DS//SKU.h
+	<bits/stdc++.h>
+
+1572373507 source:/home/aditya/Data/DS/SKU.cpp
+	"SKU.h"
+
+1572373490 /home/aditya/Data/DS/SKU.h
+	<bits/stdc++.h>
+
+1572422740 source:/home/aditya/Data/DS/Graph.cpp
+	"Graph.h"
+
+1572422756 /home/aditya/Data/DS/Graph.h
+	<database.h>
+
+1572373473 /home/aditya/Data/DS//database.h
+	<SKU.h>
+
+1572421267 source:/home/aditya/Data/DS/main.cpp
+	<Graph.h>
+
+1572421223 /home/aditya/Data/DS//Graph.h
+	<database.h>
+
+1574927434 source:/home/aditya/Data/C and C++/DS/database.cpp
+	"database.h"
+
+1572373473 /home/aditya/Data/C and C++/DS/database.h
+	<SKU.h>
+
+1572948523 /home/aditya/Data/C and C++/DS//SKU.h
+	<bits/stdc++.h>
+
+1574933521 source:/home/aditya/Data/C and C++/DS/Graph.cpp
+	"Graph.h"
+
+1572422756 /home/aditya/Data/C and C++/DS/Graph.h
+	<database.h>
+
+1572373473 /home/aditya/Data/C and C++/DS//database.h
+	<SKU.h>
+
+1574159827 source:/home/aditya/Data/C and C++/DS/main.cpp
+	<Graph.h>
+
+1572422756 /home/aditya/Data/C and C++/DS//Graph.h
+	<database.h>
+
+1574156079 source:/home/aditya/Data/C and C++/DS/SKU.cpp
+	"SKU.h"
+
+1572948523 /home/aditya/Data/C and C++/DS/SKU.h
+	<bits/stdc++.h>
+
