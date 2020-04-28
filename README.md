@@ -1,4 +1,7 @@
 # Q-Less
+
+A project based on intermediate and some advanced data structures ( here , implemented through C++)
+
 College Project in 2nd Year
 This Project is step towards solving one of the problems faced by customers in department stored/Malls ques.
 The initial aim was to develop a program so that customers could self-checkout instead of relying on an employee to make the process faster. Though far from reaching that goal the project did accomplish the following objectives:
@@ -10,3 +13,6 @@ The initial aim was to develop a program so that customers could self-checkout i
 •	Added a functionality to suggest the customers shortest path from entrance to all the   departments the must visit (as per their shopping list) to exit.
 
 •	Basic self-checkout by adding the SKU code of object in program they want to buy to calculate bill and update stock.
+
+NOTE -- 
+if you have any suggestions edits kindly raise a issue!
